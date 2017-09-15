@@ -2,7 +2,8 @@
 .DS_Store
 morgan.log
 
-/build-output
+/build-output/lib1
+/build-output/lib2
 # Built #
 /__build__/
 /__server_build__/
