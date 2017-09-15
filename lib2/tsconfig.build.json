@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "target": "es5",
+      "module": "es2015",
+      "moduleResolution": "node",
+      "sourceMap": false,
+      "declaration": true,
+      "removeComments": false,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "listFiles": false,
+      "skipLibCheck": true,
+      "noLib": false
+    },
+    "include": [
+      "./lib2.ts"
+    ],
+    "angularCompilerOptions": {
+      "skipMetadataEmit": false,
+      "skipTemplateCodegen": true
+    }
+  }
